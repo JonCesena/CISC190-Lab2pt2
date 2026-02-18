@@ -1,0 +1,6 @@
+Enter a city: San Diego
+
+9
+SAN DIEGO
+san diego
+S

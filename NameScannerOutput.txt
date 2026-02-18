@@ -1,0 +1,6 @@
+Enter your first name: Jon
+Enter your middle name: Robert
+Enter your last name: Cesena
+
+My name is: Jon Robert Cesena
+My initals are: JRC
